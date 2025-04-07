@@ -8,7 +8,7 @@ Welcome to the main repository for the Builders Cohort Q2 2025. This repo contai
 
 | Session | Topic                            | Repository Link |
 |---------|----------------------------------|-----------------|
-| 1       | Introduction to Solana & Wallets | [intro-solana-wallets](https://github.com/DevJProd/nft-staking) |
+| 1       | SPL Token Minting with Metadata Integration  | [spl-token-metadata-mint](https://github.com/DevJProd/spl-token-minting-ts) |
 
 > ⚠️ This list will be updated weekly as new sessions are completed.
 
