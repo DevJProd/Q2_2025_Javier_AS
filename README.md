@@ -9,6 +9,7 @@ Welcome to the main repository for the Builders Cohort Q2 2025. This repo contai
 | Session | Topic                            | Repository Link |
 |---------|----------------------------------|-----------------|
 | 1       | SPL Token Minting with Metadata Integration  | [spl-token-metadata-mint](https://github.com/DevJProd/spl-token-minting-ts) |
+| 2       | NFT Minting and Metadata Creation   | [nft-minting-image-metadata](https://github.com/DevJProd/NFT-Minting-and-Metadata) |
 
 > ⚠️ This list will be updated weekly as new sessions are completed.
 
