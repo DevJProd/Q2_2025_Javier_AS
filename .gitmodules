@@ -1,3 +1,6 @@
-[submodule "Q2_2025_Javier_AS"]
+[submodule "spl-token-metadata-mint"]
 	path = Q2_2025_Javier_AS
-	url = https://github.com/DevJProd/Q2_2025_Javier_AS.git
+	url = https://github.com/DevJProd/spl-token-minting-ts
+[submodule "nft-minting-image-metadata"]
+	path = Q2_2025_Javier_AS
+	url = https://github.com/DevJProd/NFT-Minting-and-Metadata
