@@ -1,6 +1,0 @@
-[submodule "spl-token-metadata-mint"]
-	path = spl-token-metadata-mint
-	url = https://github.com/DevJProd/spl-token-minting-ts
-[submodule "nft-minting-image-metadata"]
-	path = nft-minting-image-metadata
-	url = https://github.com/DevJProd/NFT-Minting-and-Metadata
