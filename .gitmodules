@@ -1,3 +1,6 @@
 [submodule "tools/spl-token-minting-ts"]
 	path = tools/spl-token-minting-ts
 	url = https://github.com/DevJProd/spl-token-minting-ts
+[submodule "spl-token-minting-ts"]
+	path = spl-token-minting-ts
+	url = https://github.com/DevJProd/spl-token-minting-ts
