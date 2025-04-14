@@ -13,3 +13,6 @@
 [submodule "amm"]
 	path = amm
 	url = https://github.com/DevJProd/amm
+[submodule "escrow"]
+	path = escrow
+	url = https://github.com/DevJProd/escrow
