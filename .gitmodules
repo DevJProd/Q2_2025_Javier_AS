@@ -7,3 +7,6 @@
 [submodule "NFT-Minting-and-Metadata"]
 	path = NFT-Minting-and-Metadata
 	url = https://github.com/DevJProd/NFT-Minting-and-Metadata
+[submodule "Vault"]
+	path = Vault
+	url = https://github.com/DevJProd/Vault
