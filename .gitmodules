@@ -10,3 +10,6 @@
 [submodule "Vault"]
 	path = Vault
 	url = https://github.com/DevJProd/Vault
+[submodule "amm"]
+	path = amm
+	url = https://github.com/DevJProd/amm
